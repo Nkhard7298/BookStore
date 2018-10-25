@@ -1,0 +1,2 @@
+# Bookstore
+This is the desktop application having UI build on python using tkinter library and sqlite.To run this application,download bookstore.exe file and runt it. I am attaching python scripts as well so that viewers can understand how this application is designed.Hope you will like it.
